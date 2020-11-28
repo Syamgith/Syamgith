@@ -11,7 +11,3 @@
 [![Follow on Linkedin](https://img.shields.io/badge/--linkedin?label=Linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/syamgith/)
 
 ![](https://github-readme-stats.vercel.app/api?username=syamgith&count_private=true&theme=dark&show_icons=true)
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/syamgith.gif?z=6)](https://github.com/Syamgith)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=syamgith&label=Profile%20views&color=0e75b6&style=flat" alt="syamgith" /> </p>
