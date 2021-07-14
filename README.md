@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently learning Dart and Flutter
+- 🔭 I’m currently learning.. idk everything at once lol
 - 🌱
 - 📫 How to reach me: 
 
