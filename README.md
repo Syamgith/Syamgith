@@ -3,8 +3,7 @@
 
 
 
-- 🔭 I’m currently learning.. idk everything at once lol
-- 🌱
+
 - 📫 How to reach me: 
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Syam_gith)
