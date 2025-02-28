@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: 
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Syam_gith)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Syamgit)
 [![Follow on Linkedin](https://img.shields.io/badge/--linkedin?label=Linkedin&logo=linkedin&style=social)](https://www.linkedin.com/in/syamgith/)
 
-![](https://github-readme-stats.vercel.app/api?username=syamgith&count_private=true&theme=dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=syamgith&count_private=true&theme=dark&show_icons=false)
